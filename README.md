@@ -1,4 +1,4 @@
-# 👋 Hello, Devs! Bem vindos ao meu perfil!
+# Hello, Devs! Bem vindos ao meu perfil   🙋‍♀️
 ### Meu nome é Anastasiia De Oliveira 
 
 <div>
@@ -8,8 +8,8 @@
 </div>
 <p></p>
 
-- 🌱 Atualmente estou aprendendo a lógica de programação com base de <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="17">
-- ⚡ Estou buscando o meu caminho na área de TI
+- 👩‍💻Atualmente estou aprendendo a lógica de programação com base de <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25">
+- 🕵️‍♀️ Estou buscando o meu caminho na área de TI 💘
 
 ### Contatos:
 <div>
