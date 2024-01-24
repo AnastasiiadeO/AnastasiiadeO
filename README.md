@@ -8,7 +8,7 @@
 </div>
 <p></p>
 
-- 👩‍💻 Atualmente estou aprendendo a lógica de programação com base de <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25">
+- 👩‍💻 Atualmente estou me aprofundando nos estudos de <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25">
 - 🕵️‍♀️ Estou buscando o meu caminho na área de TI 💘
 
 ### Contatos:
