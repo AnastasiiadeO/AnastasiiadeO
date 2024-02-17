@@ -1,3 +1,5 @@
+<img  loading="lazy" width="50%" src="https://kartinki.pics/uploads/posts/2021-07/1625610415_6-kartinkin-com-p-internet-zavisimost-fon-krasivie-foni-6.jpg">
+
 # Hello, Devs! Bem vindos ao meu perfil   🙋‍♀️
 ### Meu nome é Anastasiia De Oliveira 
 
